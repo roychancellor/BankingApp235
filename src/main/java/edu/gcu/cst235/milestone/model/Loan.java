@@ -150,7 +150,6 @@ public class Loan extends Account {
 		return getAccountBalance() * monthlyInterestRate;
 	}
 	
-	@Override
 	/**
 	 * Implements the method in the iTrans interface
 	 */

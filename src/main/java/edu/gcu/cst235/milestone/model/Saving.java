@@ -87,7 +87,6 @@ public class Saving extends Account {
 			this.addTransaction(amount, "Deposit");
 	}
 	
-	@Override
 	/**
 	 * Implements the iTrans interface method
 	 */
